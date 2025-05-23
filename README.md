@@ -1,5 +1,6 @@
 ## rahul code
 this is my git repository
+author-rahul
 
 <!--
 **rahul123-hash/rahul123-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
